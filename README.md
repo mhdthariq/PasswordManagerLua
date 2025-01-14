@@ -12,7 +12,7 @@ This project is a simple password manager implemented using Lua and OpenSSL for 
 ## Project Structure
 
 ```
-password_manager_project/
+PasswordManagerLua/
 ├── src/
 │   ├── c/
 │   │   └── openssl_wrapper.c      # C file for the OpenSSL wrapper
@@ -39,7 +39,7 @@ password_manager_project/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mhdthariq/PasswordManagerLua.git
    cd password_manager_project
    ```
 
